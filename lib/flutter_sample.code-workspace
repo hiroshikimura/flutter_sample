@@ -1,0 +1,13 @@
+{
+  "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../flutter-maplibre-gl"
+		}
+	],
+"settings": {
+	"java.compile.nullAnalysis.mode": "automatic"
+}
+}
